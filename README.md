@@ -1,4 +1,4 @@
-# pg-ha-vip
+# pg-ha-vip 2.0版本
 两节点的postgresql+repmgr主备集群方式，配置vip便于应用透明连接。
 实际案例：
 pg17.6+repmgr5.5
